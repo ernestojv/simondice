@@ -1,0 +1,2 @@
+# simondice
+Juego en JS
